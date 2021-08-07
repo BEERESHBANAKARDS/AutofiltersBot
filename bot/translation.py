@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b><u>Hey {} how are you!!</b></u>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-You cannot add me to your Group 👅😂
+👅😂 You cannot add me to your Group 👅😂
 
 For More Details Click Help Button Below..
 @searchkannadamovies
